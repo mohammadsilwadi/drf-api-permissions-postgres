@@ -8,4 +8,4 @@
 + Add ability to switch user’s directly from browsable API.
  
  ## Pull request
- [PR]()
+ [PR](https://github.com/mohammadsilwadi/drf-api-permissions-postgres/pull/1)
